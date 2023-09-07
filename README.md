@@ -2,6 +2,10 @@
 
 I just started my studies in software development... 
 
+- 🌱 I’m currently learning Python and Javascript
+- 📫 How to reach me: matheusmagalhaes.dev@gmail.com or mmgalhaes67@gmail.com
+
+
 <!--
 **matheusmagalhaess/matheusmagalhaess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
