@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I just started my studies in software development... 
+About me: Telecommunications Engineer with a passion for technology and people, currently focused on software development for IoT.
 
-- 🌱 I’m currently learning Python and Javascript
-- 📫 How to reach me: matheusmagalhaes.dev@gmail.com or mmgalhaes67@gmail.com
-
+- 🌱 At [SIBIS](https://sibis.io), we are dedicated to providing innovative software solutions and helping companies to make progress.
+- 📫 How to reach me: matheusm@sibis.io
 
 <!--
 **matheusmagalhaess/matheusmagalhaess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
