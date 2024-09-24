@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-About me: Telecommunications Engineer with a passion for technology and people, currently focused on software development for IoT.
+I am a Telecommunications Engineer with a passion for technology and people, currently focused on software development for IoT.
+
 
 - 🌱 At [SIBIS](https://sibis.io), we are dedicated to providing innovative software solutions and helping companies to make progress.
 - 📫 How to reach me: matheusm@sibis.io
